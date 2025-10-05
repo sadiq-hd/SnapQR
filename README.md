@@ -17,8 +17,9 @@ If the result is a **URL**, SnapQR opens it automatically in your browser; if it
 
 ---
 
-### 📦 Download Now  
-➡️ [**Download SnapQR.exe**](https://github.com/sadiq-hd/SnapQR/releases/download/v1.0.0/SnapQR.exe)
+### 📦 Download Now
+➡️ [**Download SnapQR.zip**](https://github.com/sadiq-hd/SnapQR/releases/download/v1.0.0/SnapQR.zip)
+
 
 ---
 
