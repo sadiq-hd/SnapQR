@@ -17,8 +17,8 @@ If the result is a **URL**, SnapQR opens it automatically in your browser; if it
 
 ---
 
-## 🖥️ Preview
-![SnapQR Preview](https://github.com/sadiq-hd/SnapQR/assets/placeholder_preview.png)
+### 📦 Download Now
+➡️ [**Download SnapQR.exe**]([https://github.com/sadiq-hd/SnapQR/releases/download/v1.0.0/SnapQR.exe](https://github.com/sadiq-hd/SnapQR/releases/download/v1.0.0/SnapQR.exe))
 
 ---
 
